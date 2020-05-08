@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.exe
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.dll
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.pdb
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.dll
+C:\Users\Maria Luiza\Documents\Luiza\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.pdb
